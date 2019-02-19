@@ -1,0 +1,3 @@
+Name: Mims
+Age: 28
+Favorite Color: Yellow
